@@ -14,7 +14,7 @@
   },
   "readme": "../README.md",
   "devDependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.0",
     "jenkins-js-builder": "0.0.26",
     "jenkins-js-test": "0.0.15"
   },
